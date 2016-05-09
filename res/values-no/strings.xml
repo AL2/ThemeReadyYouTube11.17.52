@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel_button">Avbryt</string>
+    <string name="dialog_message_no_cardboard">Skaff deg Cardboard-appen for å konfigurere brillene dine.</string>
+    <string name="dialog_message_setup">Konfigurer brillene dine for en best mulig opplevelse.</string>
+    <string name="dialog_title">Konfigurer</string>
+    <string name="go_to_playstore_button">Gå til Play-butikken</string>
+    <string name="got_it">GREIT</string>
+    <string name="no_browser_text">Finner ingen nettleser som kan åpne nettstedet</string>
+    <string name="place_your_phone_into_cardboard">Legg telefonen inn i Cardboard-brillene</string>
+    <string name="place_your_viewer_into_viewer_format">Sett inn telefonen din i %s-brillene</string>
+    <string name="setup_button">Konfigurer</string>
+    <string name="switch_viewer_action">Bytt</string>
+    <string name="switch_viewer_prompt">Bruker du andre briller?</string>
+    <string name="viewer_configured_dialog_title">Brillene er konfigurert.</string>
+    <string name="viewer_configured_message_format">Nå er appen konfigurert for %s-briller.</string>
+</resources>
