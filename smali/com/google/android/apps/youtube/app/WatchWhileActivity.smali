@@ -5959,7 +5959,7 @@
 
     move-result-object v2
 
-    const v3, 0x7f0b00e2
+    const v3, 0x106000d
 
     invoke-virtual {v2, v3}, Landroid/view/Window;->setBackgroundDrawableResource(I)V
 
@@ -6048,7 +6048,7 @@
     iput-object v3, v2, Lecc;->a:Ljava/lang/CharSequence;
 
     .line 613
-    sget v3, Lvkp;->P:I
+    sget v3, Lvkp;->O:I
 
     .line 614
     invoke-virtual {v4, v3}, Landroid/content/res/Resources;->getColor(I)I

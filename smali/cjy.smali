@@ -60,7 +60,7 @@
     .line 2293
     iget-object v2, v5, Lcjm;->W:Landroid/content/res/Resources;
 
-    sget v3, Lvkp;->M:I
+    sget v3, Lvkp;->L:I
 
     invoke-virtual {v2, v3}, Landroid/content/res/Resources;->getColor(I)I
 

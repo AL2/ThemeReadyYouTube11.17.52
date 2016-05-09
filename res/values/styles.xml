@@ -1604,14 +1604,7 @@
         <item name="colorPrimary">?backgroundPrimaryInverse</item>
         <item name="colorPrimaryDark">@android:color/black</item>
     </style>
-    <style name="Theme.YouTube.Home" parent="@style/Theme.YouTube.Light.NoActionBar" >
-		<item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
-        <item name="android:textColorPrimaryDisableOnly">@color/abc_primary_text_disable_only_material_dark</item>
-        <item name="android:textColorSecondary">@color/abc_secondary_text_material_dark</item>
-        <item name="android:textColorPrimaryInverse">@color/abc_primary_text_material_light</item>
-        <item name="android:textColorSecondaryInverse">@color/abc_secondary_text_material_light</item>
-        <item name="android:textColorHintInverse">@color/hint_foreground_material_light</item>
-	</style>
+    <style name="Theme.YouTube.Home" parent="@style/Theme.YouTube.Light.NoActionBar" />
     <style name="Theme.YouTube.Launcher" parent="@style/Theme.YouTube.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/quantum_launchscreen_youtube</item>
         <item name="colorPrimaryDark">@color/quantum_grey</item>

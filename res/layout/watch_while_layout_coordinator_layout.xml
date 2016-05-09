@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.design.widget.CoordinatorLayout android:id="@id/coordinator_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
-    <FrameLayout android:id="@id/pane_fragment_container" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" yt:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <FrameLayout android:id="@id/pane_fragment_container" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent" yt:layout_behavior="@string/appbar_scrolling_view_behavior">
         <com.google.android.apps.youtube.app.ui.inline.InlinePlayerLayout android:id="@id/inline_player_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
     </FrameLayout>
     <FrameLayout android:id="@id/fab_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
